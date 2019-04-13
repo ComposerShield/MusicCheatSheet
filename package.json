@@ -1,0 +1,21 @@
+{
+  "name": "music_cheat_sheet",
+  "version": "1.0.0",
+  "description": "A music theory tool to spark inspiration.",
+  "main": "source/sketch.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"test\": \"ng test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ComposerShield/MusicCheatSheet.git"
+  },
+  "author": "Adam Shield",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ComposerShield/MusicCheatSheet/issues"
+  },
+  "homepage": "https://github.com/ComposerShield/MusicCheatSheet#readme"
+}
